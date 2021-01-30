@@ -4,7 +4,8 @@
 
 #### Usability related suggestions :
 
-1.
+1. Page scrolls up when we select value from folowing fields:
+
 2.
 3.
 4.
