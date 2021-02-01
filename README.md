@@ -48,8 +48,21 @@ Is the connection new / addition to existing R. R. No.…
 
 #### UI related suggestions :
 
-1.
-2.
-3.
-4.
-5.
+1. Field width should be same in a single cell:
+![1](https://user-images.githubusercontent.com/78211007/106429215-28f2c880-6490-11eb-9b03-41e2b2fce38b.JPG)
+
+2. All the upload related errors should display at a specific place, these should look like laying on the page randomly: 
+![2 1](https://user-images.githubusercontent.com/78211007/106429606-ac141e80-6490-11eb-9e6e-98834ca9ad55.JPG)
+![2 2](https://user-images.githubusercontent.com/78211007/106429628-b46c5980-6490-11eb-9e3d-7794fbd6609e.JPG)
+![2 3](https://user-images.githubusercontent.com/78211007/106429648-bafad100-6490-11eb-857e-8caf6d1e1208.JPG)
+![2 4](https://user-images.githubusercontent.com/78211007/106429659-bfbf8500-6490-11eb-970c-579356123105.JPG)
+
+3. If it is mentioned that * marked fields are mandatory then there is no need of displaying text "Required" everytime:
+![3](https://user-images.githubusercontent.com/78211007/106429731-d82f9f80-6490-11eb-8b30-4ae3779084c8.JPG)
+
+4. These unnecessary tables should get removed, mobile no. , adhar card no. can come in single table: 
+![4](https://user-images.githubusercontent.com/78211007/106429750-e1207100-6490-11eb-8429-b55c3453579c.JPG)
+
+5. Text Field name allignment should be proper:
+![5](https://user-images.githubusercontent.com/78211007/106429797-f09fba00-6490-11eb-8d5b-504a49ece872.JPG)
+
