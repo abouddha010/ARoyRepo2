@@ -20,11 +20,31 @@
 
 #### Functionality related suggestions :
 
-1.
-2.
-3.
-4.
-5.
+1. Form sould be applicable for Firm or company as well, instead of Single person Name , field name should be NAME OF THE APPLICANT/ FIRM
+
+2. Download form option shuould be there as all users don't know how to submit application online, so that they can fill the hard copy & directly submit in the office 
+
+3. Document upload fields should have these options as well to upload necessary documnets:
+- Site plan with proposed location of the metering cubicle.
+- Latest Tax paid Receipt.
+- Route map.
+- Authorisation letter.
+- If lessee, regd. Lease agreement.
+
+4. Contact Us section should be there incase any user have any question, then can contact 
+example:
+***REACH US***
+info@xyz.in
+(+91) 9510000002 / 814567892 Toll Free
+
+5. We can add These fields to avoid fake applications:
+If licence from appropriate authority obtained: Y E S / NO.(LICENCE not required in industrial area of KIADB/ KSSIDC)
+If the firm is registered in Industries department: Y E S / N O.
+If the clearance from the single window is enclosed : YES /NO .
+Power supply is required for : COMMERCIAL/ INDUSTRIAL/ WATER SUPPLY/ RESIDENTIAL/ LIFT IRRIGATION/TEMPORARY.
+Premises located in : Private layout/ KIADB area/ KSSIDC/ Municipal/ corporation/ Village panchayat area.
+Is the connection new / addition to existing R. R. No.…
+
 
 #### UI related suggestions :
 
